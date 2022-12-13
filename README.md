@@ -6,9 +6,14 @@ This is a personal project on sowing sales insights of a company using MySQL and
 ## ❓Problem Statement
 The sales manager of the company is facing many challenges. He is facing issues in tracking sales in a dynamically growing market. He is having issues with the insights into his business. So, the problem is that the conversations that are happening are verbal. Hence, the regional managers are sugarcoating the facts, and the manager of the company does not get a clear picture of the facts. Even after knowing that the sales are declining, he cannot do anything because he does not have a clear picture of the sales. Asking for the records the regional manager provides him with excel files. But by this, he cannot figure out small things. All that the manager wants is a view of the weakest area the company needs to focus on to increase sales and improvise the declination. He is interested in simple, understandable, and digestive insight
 ## 📸Screenshots
+DASHBOARD
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1vuJeXK5RDHOwBn6YZI8SDqGlvy8cg26n)
+
+SALES INSIGHTS FOR THE YEAR 2018
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1Iyhl4AgCcA16Y85DJ5iSIwsZRQbLk362)
+
+SALES INSIGHTS FOR CITY MUMBAI IN THE YEAR 2018
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1gSbF-XBvfR6rjgCoCb_OOcdiXW0fVgOV)
 ## ✔️End Result
 An automated dashboard providing quick and latest sales insights to make data-driven decision-making.
@@ -18,7 +23,7 @@ An automated dashboard providing quick and latest sales insights to make data-dr
 3) Data cleaning and ETL(Extract Transform Load) using PowerBI.
 4) Building a dashboard report.
 ## 🛠Tools used
-PowerBI and MySQl.
+PowerBI and MySQL.
 # Hi, I'm Zeeshan! 👋
 
 
