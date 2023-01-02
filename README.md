@@ -1,5 +1,5 @@
 
-# Sales Insights Using PowerBI
+# Sales Insights
 
 This is a personal project on sowing sales insights of a company using MySQL and PowerBI. Purpose: To unlock sales insights that are not visible to the sales team for decision support and automate them to reduce manual time spend in data gathering. End Result: An automated dashboard providing quick and latest sales insights to make data-driven decision-making.
 
