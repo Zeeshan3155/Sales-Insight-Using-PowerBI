@@ -8,13 +8,13 @@ The sales manager of the company is facing many challenges. He is facing issues 
 ## 📸Screenshots
 DASHBOARD
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1vuJeXK5RDHOwBn6YZI8SDqGlvy8cg26n)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1FolZr0Q6uyhoOAJ_nOcN7euqc9qPvODW)
 
 SALES INSIGHTS FOR THE YEAR 2018
-![App Screenshot](https://drive.google.com/uc?export=view&id=1Iyhl4AgCcA16Y85DJ5iSIwsZRQbLk362)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1f0k5nJhII0vHt3_9T2bo6EHSeGsV7xz4)
 
 SALES INSIGHTS FOR CITY MUMBAI IN THE YEAR 2018
-![App Screenshot](https://drive.google.com/uc?export=view&id=1gSbF-XBvfR6rjgCoCb_OOcdiXW0fVgOV)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1yXtMy48Ea745vUugQSZAK7re5I3W-4JB)
 ## ✔️End Result
 An automated dashboard providing quick and latest sales insights to make data-driven decision-making.
 ## 👣Steps involved
